@@ -1,7 +1,7 @@
 /*********************************************
  * Id: lass2922
  * 
- * Comment about what this program does 
+ * Min Distance Algorithm
  *********************************************/
 
 
